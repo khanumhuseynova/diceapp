@@ -1,0 +1,9 @@
+.die {
+    font-size: 10em;
+    padding: 0.25em;
+    color: rgb(90, 77, 150);
+}
+
+body {
+    background: rgb(216, 200, 212);
+}
